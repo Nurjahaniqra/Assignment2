@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+}
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f8f9fa;">
+    <div style="border: 1px solid #7393B3; width: 400px; border-radius: 10px; background: white; padding: 20px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+        <form method="post" action="@Url.Action("Login","Auth")">
+            <h3 class="text-center mb-4">Login</h3>
+            <h4 class="text-center">Have an Account?</h4>
+            <div class="mb-3">
+                <label for="txtEmail" class="form-label">Email address</label>
+                <input type="text" class="form-control" id="txtEmail" aria-describedby="emailHelp" placeholder="Please enter a valid email address" name="txtEmail" />
+
+            </div>
+            <div class="mb-3">
+                <label for="txtPassword" class="form-label">Password</label>
+                <input type="password" class="form-control" id="txtPassword" placeholder="Enter your password" name="txtPassword">
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Submit</button>
+           <hr />
+            <a href="https://localhost:44388/Auth/forgetPassword" style="cursor:pointer;"  >Forget Your PassWord?</a>           
+            <div>@ViewBag.Message</div>
+        </form>
+</div>
+</div>
+

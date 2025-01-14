@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OstadeAssignment\\Assignment2\\Assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A54031-2E16-47FB-8E08-CCCE1D98E5E4}|Assignment2\\Assignment2.csproj|e:\\ostadeassignment\\assignment2\\assignment2\\assignment2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A54031-2E16-47FB-8E08-CCCE1D98E5E4}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A54031-2E16-47FB-8E08-CCCE1D98E5E4}|Assignment2\\Assignment2.csproj|E:\\OstadeAssignment\\Assignment2\\Assignment2\\assignment2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A54031-2E16-47FB-8E08-CCCE1D98E5E4}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A54031-2E16-47FB-8E08-CCCE1D98E5E4}|Assignment2\\Assignment2.csproj|E:\\OstadeAssignment\\Assignment2\\Assignment2\\assignment2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A54031-2E16-47FB-8E08-CCCE1D98E5E4}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A54031-2E16-47FB-8E08-CCCE1D98E5E4}|Assignment2\\Assignment2.csproj|E:\\OstadeAssignment\\Assignment2\\Assignment2\\assignment2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A54031-2E16-47FB-8E08-CCCE1D98E5E4}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A54031-2E16-47FB-8E08-CCCE1D98E5E4}|Assignment2\\Assignment2.csproj|E:\\OstadeAssignment\\Assignment2\\Assignment2\\assignment2\\views\\auth\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A54031-2E16-47FB-8E08-CCCE1D98E5E4}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\views\\auth\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A54031-2E16-47FB-8E08-CCCE1D98E5E4}|Assignment2\\Assignment2.csproj|E:\\OstadeAssignment\\Assignment2\\Assignment2\\assignment2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A54031-2E16-47FB-8E08-CCCE1D98E5E4}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A54031-2E16-47FB-8E08-CCCE1D98E5E4}|Assignment2\\Assignment2.csproj|E:\\OstadeAssignment\\Assignment2\\Assignment2\\assignment2\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5A54031-2E16-47FB-8E08-CCCE1D98E5E4}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\OstadeAssignment\\Assignment2\\Assignment2\\Assignment2\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\OstadeAssignment\\Assignment2\\Assignment2\\Assignment2\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Assignment2\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAvwFkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:04:36.705Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "E:\\OstadeAssignment\\Assignment2\\Assignment2\\Assignment2\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Assignment2\\Views\\Home\\About.cshtml",
+              "ToolTip": "E:\\OstadeAssignment\\Assignment2\\Assignment2\\Assignment2\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Assignment2\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T15:41:05.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\OstadeAssignment\\Assignment2\\Assignment2\\Assignment2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Assignment2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\OstadeAssignment\\Assignment2\\Assignment2\\Assignment2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Assignment2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T18:22:14.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForgetPassWord.cshtml",
+              "DocumentMoniker": "E:\\OstadeAssignment\\Assignment2\\Assignment2\\Assignment2\\Views\\Auth\\ForgetPassWord.cshtml",
+              "RelativeDocumentMoniker": "Assignment2\\Views\\Auth\\ForgetPassWord.cshtml",
+              "ToolTip": "E:\\OstadeAssignment\\Assignment2\\Assignment2\\Assignment2\\Views\\Auth\\ForgetPassWord.cshtml",
+              "RelativeToolTip": "Assignment2\\Views\\Auth\\ForgetPassWord.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBpwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T17:29:30.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\OstadeAssignment\\Assignment2\\Assignment2\\Assignment2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\OstadeAssignment\\Assignment2\\Assignment2\\Assignment2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Assignment2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T17:24:49.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\OstadeAssignment\\Assignment2\\Assignment2\\Assignment2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\OstadeAssignment\\Assignment2\\Assignment2\\Assignment2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Assignment2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:24:09.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\OstadeAssignment\\Assignment2\\Assignment2\\Assignment2\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Assignment2\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "E:\\OstadeAssignment\\Assignment2\\Assignment2\\Assignment2\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Assignment2\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T05:14:58.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
