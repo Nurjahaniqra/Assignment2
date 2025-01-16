@@ -51,6 +51,8 @@ E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\roslyn\vbc.rsp
 E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\roslyn\VBCSCompiler.exe
 E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\roslyn\VBCSCompiler.exe.config
 E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\Antlr3.Runtime.dll
+E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\EntityFramework.dll
+E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\EntityFramework.SqlServer.dll
 E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\Microsoft.Web.Infrastructure.dll
 E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\Newtonsoft.Json.dll
@@ -62,6 +64,8 @@ E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\System.Web.WebPages.
 E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\System.Web.WebPages.dll
 E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\System.Web.WebPages.Razor.dll
 E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\WebGrease.dll
+E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\EntityFramework.xml
+E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\EntityFramework.SqlServer.xml
 E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\System.Web.Helpers.xml
 E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\System.Web.Mvc.xml
 E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\System.Web.Optimization.xml
@@ -77,7 +81,3 @@ E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\obj\Debug\Assignment2.cs
 E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\obj\Debug\Assignme.583E0B72.Up2Date
 E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\obj\Debug\Assignment2.dll
 E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
-E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\EntityFramework.dll
-E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\EntityFramework.SqlServer.dll
-E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\EntityFramework.xml
-E:\OstadeAssignment\Assignment2\Assignment2\Assignment2\bin\EntityFramework.SqlServer.xml

@@ -2,6 +2,12 @@
 @{
     ViewBag.Title = "Login";
 }
+@*<script>
+    //function ShowModal() {
+    //    $('#doverlay').css('display', '');
+    //    $('#mdForgetPassword').css('display','');       
+    //}
+</script>*@
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f8f9fa;">
     <div style="border: 1px solid #7393B3; width: 400px; border-radius: 10px; background: white; padding: 20px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
@@ -18,10 +24,12 @@
                 <input type="password" class="form-control" id="txtPassword" placeholder="Enter your password" name="txtPassword">
             </div>
             <button type="submit" class="btn btn-primary w-100">Submit</button>
-           <hr />
-            <a href="https://localhost:44388/Auth/forgetPassword" style="cursor:pointer;"  >Forget Your PassWord?</a>           
-            <div>@ViewBag.Message</div>
+            <hr />
+           @* <a href="https://localhost:44388/Auth/forgetPasswordold" style="cursor:pointer;">Forget Your PassWord?</a>*@
+          <a href="https://localhost:44388/Auth/ForgetPassWord"  style="cursor:pointer;" onclick="ShowModal()">Forget Your PassWord?</a>
         </form>
+    </div>
 </div>
-</div>
+
+
 
